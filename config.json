@@ -1,0 +1,9 @@
+{
+  "ollamaAI": {
+    "endpoint": "http://localhost:11434/api/generate",
+    "model": "deepseek-coder:6.7b",
+    "maxTokens": 2048,
+    "temperature": 0.2,
+    "contextWindow": 20000
+  }
+}
